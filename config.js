@@ -1,5 +1,7 @@
 
 window.AGR_CONNECT_CONFIG = {
+  url: "https://uxzpzgufsrhigczzvqoh.supabase.co",
+  publishableKey: "sb_publishable_5ln9NqrfQUFzbjvNY_hKBA_EFQltIMx",
   supabaseUrl: "https://uxzpzgufsrhigczzvqoh.supabase.co",
   supabaseKey: "sb_publishable_5ln9NqrfQUFzbjvNY_hKBA_EFQltIMx"
 };
